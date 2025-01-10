@@ -8,7 +8,6 @@ import android.util.AttributeSet
 import android.view.ViewGroup
 import android.widget.FrameLayout
 import android.widget.ImageView
-import com.android.testprojectkotlin.R
 import com.bumptech.glide.Glide
 
 class CustomAvatar @JvmOverloads constructor(
